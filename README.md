@@ -1,7 +1,7 @@
 # CDJ-1000-MK3
 Platine virtuelle CDJ1000MK3
 
-Platine virtuelle de décourte des fonctionalités et d'entrainement. Tout Fonctionne, Sauf le tempo maître Dont l'algorithme Ne EST PAS encore au point de mémorisation et le sur carte externe Qui Ne EST PAS Geree.
+Platine virtuelle de décourte des fonctionalités et d'entrainement. Tout Fonctionne, Sauf le tempo maître Dont l'algorithme N'est pas encore au point de mémorisation et le sur carte externe Qui N'est pas Geré.
 
 ####DEMARRAGE
 
