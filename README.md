@@ -5,4 +5,4 @@ Platine virtuelle de décourte des fonctionalités et d'entrainement. Tout Fonct
 
 ####DEMARRAGE
 
-Cliquez tout en haut sur ON / OFF. Ensuite, Une Fois La Platine démarrée, click sur Éjecter. Faites Ok Puis Choose Quelques fichiers MP3 se trouvant sur Votre ordinateur OÜ périphérique de l'ONU (USB, Autre), pas plus de un 20! Ce est l'équivalent d'une non CD audio. Le disque se accusation, le point de repère se positionne et vous Êtes Prêt pour jouer les DJs .. :)
+Cliquez tout en haut sur ON / OFF. Ensuite, Une Fois La Platine démarrée, click sur Éjecter. Faites Ok Puis Choose Quelques fichiers MP3 se trouvant sur Votre ordinateur ou périphérique de mémoire de masse (USB, Autre), pas plus de un 20! C'est l'équivalent d'un CD audio. Le disque se charge, le point cue 0 se positionne et vous Êtes Prêt pour jouer les DJs .. :)
