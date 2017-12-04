@@ -1,8 +1,10 @@
-# CDJ-1000-MK3
-Platine virtuelle CDJ1000MK3
+Pioneer CDJ1000MK3 virtual turntable
 
-Platine virtuelle de décourte des fonctionalités et d'entrainement. Tout Fonctionne, Sauf le tempo maître Dont l'algorithme N'est pas encore au point de mémorisation et le sur carte externe Qui N'est pas Geré.
+Virtual turntable for discovering functionalities and training. Everything Works, Exept:
 
-####DEMARRAGE
+The master tempo (the algorithm is not yet developed)
+Storing on external memory card cue points.
 
-Cliquez tout en haut sur ON / OFF. Ensuite, Une Fois La Platine démarrée, click sur Éjecter. Faites Ok Puis Choose Quelques fichiers MP3 se trouvant sur Votre ordinateur ou périphérique de mémoire de masse (USB, Autre), pas plus de un 20! C'est l'équivalent d'un CD audio. Le disque se charge, le point cue 0 se positionne et vous Êtes Prêt pour jouer les DJs .. :)
+GETTING STARTED
+
+Click on ON / OFF at the top. Then, Once the turntable is started, click on Eject. Do Ok Then Choose between 1 and 20 MP3 Files maximum On Your Computer. When the entire disc loaded, the point cue 0 is automatiquely positioned and you are ready to play the DJs .. :)
